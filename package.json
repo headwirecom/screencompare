@@ -1,0 +1,19 @@
+{
+  "name": "screencompare",
+  "version": "0.0.1",
+  "description": "a quick tool to compare list of urls from one server to another using puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/headwirecom/screencompare.git"
+  },
+  "author": "headwire.com, Inc",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/headwirecom/screencompare/issues"
+  },
+  "homepage": "https://github.com/headwirecom/screencompare#readme"
+}
